@@ -24,7 +24,7 @@ title: Matt Grey
 email: mattgreydesign@gmail.com
 description: "Portfolio of UX, font and graphic designer Matt Grey"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://glorialiuzhixiu.com" # the base hostname & protocol for your site
+# url: "https://glorialiuzhixiu.com" # the base hostname & protocol for your site
 timezone: Europe/London
 year: 2018
 sitemap: true
